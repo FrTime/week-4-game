@@ -1,0 +1,28 @@
+#game-header {
+  margin-top: 0px;
+  padding: 20px;
+  margin-bottom: 0px;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+#gem1,
+#gem2,
+#gem3,
+#gem4 {
+  width: 60px;
+  height: 60px;
+  margin: 20px;
+}
+
+.d-flex {
+  display: flex;
+}
